@@ -1,4 +1,8 @@
 let iteration = ['1', '2', '3'];
- 
-for (let i = 0; i < iteration.length; i++)
+let i = 0
+
+while (i < iteration.length) {
     console.log(`This is loop iteration ${iteration[i]}`)
+    i++
+}
+alert("hi")
