@@ -34,6 +34,11 @@
             "For",
             "For.json"
           ]
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
         },
         {
           "!type": "External",
@@ -50,6 +55,10 @@
             "Strings",
             "Strings.json"
           ]
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,
